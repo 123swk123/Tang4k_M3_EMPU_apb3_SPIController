@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW1NSR-4C" package="QFN48P" speed="7" partNumber="GW1NSR-LV4CQN48PC7/I6"/>
+    <FileList>
+        <File path="D:/prjslocal/learnings/verilog/tang_4k/M3_EMPU_apbSPI/src/fifo_sc_hs/temp/FIFO_SC/fifo_sc_hs_define.v" type="verilog"/>
+        <File path="D:/prjslocal/learnings/verilog/tang_4k/M3_EMPU_apbSPI/src/fifo_sc_hs/temp/FIFO_SC/fifo_sc_hs_parameter.v" type="verilog"/>
+        <File path="D:/papps/platforms/Gowin/Gowin_V1.9.8/IDE/ipcore/FIFO_SC_HS/data/fifo_sc_hs.v" type="verilog"/>
+        <File path="D:/papps/platforms/Gowin/Gowin_V1.9.8/IDE/ipcore/FIFO_SC_HS/data/fifo_sc_hs_top.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="1"/>
+        <Option type="dsp_balance" value="1"/>
+        <Option type="output_file" value="fifo_sc_hs.vg"/>
+        <Option type="output_template" value="fifo_sc_hs_tmp.v"/>
+        <Option type="ram_balance" value="1"/>
+        <Option type="ram_rw_check" value="1"/>
+        <Option type="verilog_language" value="sysv-2017"/>
+    </OptionList>
+</Project>
